@@ -1,0 +1,5 @@
+mlxtend
+pandas
+openpyxl
+numpy
+ipykernel
